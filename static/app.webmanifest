@@ -1,16 +1,10 @@
 {
-  "name": "WebThings Gateway",
-  "short_name": "WebThings",
+  "name": "Parmar's Home",
+  "short_name": "Parmar's",
   "start_url": "/",
   "display": "standalone",
-  "description": "Web of Things Gateway",
+  "description": "Parmar's Home Gateway",
   "icons": [
-    {
-      "src": "/images/icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "badge"
-    },
     {
       "src": "/images/icon.png",
       "sizes": "256x256",
@@ -22,12 +16,6 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "badge"
-    },
-    {
-      "src": "/images/icon-maskable.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "maskable"
     },
     {
       "src": "/images/icon-maskable.png",
